@@ -1,0 +1,26 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# PyInstaller / Build Folders
+build/
+dist/
+*.spec
+
+# Data & Exports
+*.csv
+gmaps_data_autosave.csv
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
